@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = appmom3
+build_property.RootNamespace = appmom3
+build_property.ProjectDir = C:\Users\tilda\OneDrive\Desktop\Skola\.NET\Mom3\appmom3\appmom3\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tilda\OneDrive\Desktop\Skola\.NET\Mom3\appmom3\appmom3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Artists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Artists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Artists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Artists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Artists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Borrows/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Borrows/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Borrows/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Borrows/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Borrows/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Cds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Cds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Cds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Cds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Cds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/People/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/People/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/People/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/People/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/People/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Shared/searchbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNlYXJjaGJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tilda/OneDrive/Desktop/Skola/.NET/Mom3/appmom3/appmom3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sw120p8k70
